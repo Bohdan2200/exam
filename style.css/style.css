@@ -83,4 +83,7 @@
     .bo6 {
         border-bottom: 1px solid gray;
     }
+    .menu {
+        display: none;
+    }
 }
